@@ -1,2 +1,2 @@
 Homepage of Astro \
-Thanks to the [Sen Li](https://senli1073.github.io/)
+Thanks to [Sen Li](https://senli1073.github.io/) for the template.
