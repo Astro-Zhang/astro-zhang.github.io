@@ -29,11 +29,11 @@
 1. Yang Zhao, Lanfang Dong, Guoxin Li, Yingchao Tang, <u><strong>Yuhang Zhang</strong></u>, Meng Mao, Guoming Li, Linxiang Tan.  
    SVIM: A Skeleton-Based View-Invariant Method for Online Gesture Recognition.  [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-46674-8_17) \
    *Advanced Data Mining and Applications (ADMA)*, 2023. 
-
+<!-- 
 1. <u><strong>Yuhang Zhang</strong></u>, Lanfang Dong, Xuesong Liu, Meng Mao, Guoming Li.  
    An Effective and Efficient Real-time Facial Expression Recognition Method in the Wild.  [[paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12791/127911Q/An-effective-and-efficient-real-time-facial-expression-recognition-method/10.1117/12.3004653.short) \
    *The Conference on Advanced Algorithms and Neural Networks (AANN)*, 2023.
 
 1. Lanfang Dong, Yongsheng Chen, <u><strong>Yuhang Zhang</strong></u>.  
    Design and Implementation of a Highly Compatible Intelligent Video Analysis Framework.  [[paper]](https://ieeexplore.ieee.org/document/9907177) \
-   *International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)*, 2022.  
+   *International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)*, 2022.   -->
