@@ -1,3 +1,4 @@
+- Peter Ho Scholarship (2026)
 - Academic Scholarship for Outstanding PhD Sudent *2 (2024, 2025)
 - Academic Scholarship for Outstanding Master Student *2 (2022, 2023)
 - Provincial Outstanding Graduate Award, 2022
