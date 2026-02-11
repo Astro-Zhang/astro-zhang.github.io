@@ -1,14 +1,14 @@
 #### Preprint/Under Review
 1. <u><strong>Yuhang Zhang</strong></u>, Keyan Ding, Peilin Chen, Can Lin, Han Liu, Ruixi Chen, Shiqi Wang, Qi Song.  
-   TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval.  
+   TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval.  \
    *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. (Under Review)
 
 1. <u><strong>Yuhang Zhang</strong></u>, Tianhe Zhang, Keyan Ding, Peilin Chen, Hanwei Zhu, Qi Song, Shiqi Wang.  
-   DECO: A Scalable and Lightweight Dual-Expert Collaboration Framework for Protein Fitness Landscape Prediction. 
+   DECO: A Scalable and Lightweight Dual-Expert Collaboration Framework for Protein Fitness Landscape Prediction.\
    *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2026. (Under Review)
 
 1. <u><strong>Yuhang Zhang</strong></u>, Dongsheng Zhu, Keyan Ding, Peilin Chen, Junyang Yu, Shiqi Wang, Qi Song.  
-   MEG-Site: Multimodal Equivariant Graph Learning Framework for Protein Active Sites Identification.  
+   MEG-Site: Multimodal Equivariant Graph Learning Framework for Protein Active Sites Identification.\
    *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2026. (Under Review)
 
 #### Published/Accepted
