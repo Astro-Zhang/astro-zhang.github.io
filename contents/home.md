@@ -7,7 +7,9 @@ Hi, I am Yuhang Zhang, a second-year joint PhD student in Computer Science at th
 Email: astrozhang01@gmail.com
 
 #### ---- NEWs ----
-🚶I will soon begin my visiting research at the National University of Singapore (NUS), supervised by [Prof. Yang Zhang](https://aideepmed.com/).🇸🇬
+🚶I will soon begin my visiting research at the National University of Singapore (NUS), supervised by [Prof. Yang Zhang](https://aideepmed.com/).🇸🇬\
+Thanks for the support of Outstanding Doctoral Students Overseas Study Program of the University of Science and Technology of China.
+
 <!-- 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic. -->
