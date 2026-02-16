@@ -18,7 +18,7 @@
    *Health Information Science and Systems (HISC)*, 2025.
 
 1. <u><strong>Yuhang Zhang</strong></u>, Peilin Chen, Keyan Ding, Han Liu, Shiqi Wang, Qi Song.  
-   MPSol: A Multimodal Prompt Learning Framework for Protein Solubility Prediction.  
+   MPSol: A Multimodal Prompt Learning Framework for Protein Solubility Prediction. [[paper]](https://ieeexplore.ieee.org/document/11284690) \
    *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025. [ <font color = red>*Invited Oral Presentation in [BHI'2025](https://bhi.embs.org/2025/)* </font>]
 
 1. Xiang-Yang Li, Yihang Wang, Junli Liang, Xinyu Wang, Pengfei Zhou, <u><strong>Yuhang Zhang</strong></u>, Qi Song.  
