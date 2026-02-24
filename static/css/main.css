@@ -62,6 +62,11 @@ section header h2{
     color: #000000;
 }
 
+/* Make SERVICE section heading black */
+#service header h2{
+    color: #000000;
+}
+
 section .main-body{
     font-size: 1.3rem;
     font-weight: 200;
