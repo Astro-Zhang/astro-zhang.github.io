@@ -1,6 +1,7 @@
 <!-- ## Yuhang Zhang -->
 ##### PhD Candidate in Computer Science
-##### University of Science and Technology of China & City University of Hong Kong
+##### University of Science and Technology of China 
+##### City University of Hong Kong
 
 Hi, I am Yuhang Zhang, a second-year joint PhD student in Computer Science at the University of Science and Technology of China (USTC) and City University of Hong Kong (CityUHK), advised by [Prof. Qi Song](https://songqi1990.github.io/) and [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/). My research broadly centers on AI for Science, with interests in protein modeling, multimodal learning, and large language models, aiming to build intelligent computational methods that advance scientific understanding.
 
