@@ -11,7 +11,7 @@
 
 1. <u><strong>Yuhang Zhang</strong></u>, Keyan Ding, Peilin Chen, Can Lin, Han Liu, Ruixi Chen, Shiqi Wang, Qi Song.  
    TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval.  \
-   *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026.
+   *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [ <font color = red>*Oral Presentation* </font>]
 
 1. <u><strong>Yuhang Zhang</strong></u>, Yiming Xu, Peilin Chen, Shiqi Wang, Qi Song, Lei Yu, Wei Cai.  
    Knowledge-Enhanced Medical Image Classification via Descriptive Priors from LLMs. [[paper]](https://link.springer.com/article/10.1007/s13755-025-00380-4) \
