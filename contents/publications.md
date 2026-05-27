@@ -10,7 +10,7 @@
 #### Published/Accepted
 
 1. <u><strong>Yuhang Zhang</strong></u>, Keyan Ding, Peilin Chen, Can Lin, Han Liu, Ruixi Chen, Shiqi Wang, Qi Song.  
-   TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval.  \
+   TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval. [[paper]](https://arxiv.org/abs/2605.24489) \
    *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [ <font color = red>*Oral Presentation* </font>]
 
 1. <u><strong>Yuhang Zhang</strong></u>, Yiming Xu, Peilin Chen, Shiqi Wang, Qi Song, Lei Yu, Wei Cai.  
