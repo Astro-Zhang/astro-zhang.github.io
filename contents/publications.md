@@ -11,7 +11,7 @@
 
 1. <u><strong>Yuhang Zhang</strong></u>, Keyan Ding, Peilin Chen, Can Lin, Han Liu, Ruixi Chen, Shiqi Wang, Qi Song.  
    TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval. [[paper]](https://arxiv.org/abs/2605.24489) \
-   *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [ <font color = red>*Oral Presentation* </font>]
+   *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [<font color = red>*Oral Presentation* </font>]
 
 1. <u><strong>Yuhang Zhang</strong></u>, Yiming Xu, Peilin Chen, Shiqi Wang, Qi Song, Lei Yu, Wei Cai.  
    Knowledge-Enhanced Medical Image Classification via Descriptive Priors from LLMs. [[paper]](https://link.springer.com/article/10.1007/s13755-025-00380-4) \
@@ -19,7 +19,7 @@
 
 1. <u><strong>Yuhang Zhang</strong></u>, Peilin Chen, Keyan Ding, Han Liu, Shiqi Wang, Qi Song.  
    MPSol: A Multimodal Prompt Learning Framework for Protein Solubility Prediction. [[paper]](https://ieeexplore.ieee.org/document/11284690) \
-   *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025. [ <font color = red>*Invited Oral Presentation in [BHI'2025](https://bhi.embs.org/2025/)* </font>]
+   *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025. [<font color = red>*Invited Oral Presentation in [BHI'2025](https://bhi.embs.org/2025/)* </font>]
 
 1. Xiang-Yang Li, Yihang Wang, Junli Liang, Xinyu Wang, Pengfei Zhou, <u><strong>Yuhang Zhang</strong></u>, Qi Song.  
    Knowledge-enhanced AI models for domain-specific application: a Survey.  [[paper]](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4635-0) \
