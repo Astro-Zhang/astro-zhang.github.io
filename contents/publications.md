@@ -1,17 +1,21 @@
 #### Preprint/Under Review
+1. Ruixi Chen, <u><strong>Yuhang Zhang</strong></u>, Ling Zheng, Shixiang Luo, Shanhua Bao, Qi Song. [<font color = blue >*Co-First Author*</font>]\
+   Harnessing Large Language Models for Complex-free Protein-Ligand Affinity Prediction via Bimodal Retrieval Enhancement.\
+   *In Submission*, 2026. 
+
 1. <u><strong>Yuhang Zhang</strong></u>, Tianhe Zhang, Keyan Ding, Peilin Chen, Hanwei Zhu, Qi Song, Shiqi Wang.  
    DECO: A Scalable and Lightweight Dual-Expert Collaboration Framework for Protein Fitness Landscape Prediction.\
-   *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2026. (Under Review)
+   *In Submission*, 2026. 
 
 1. <u><strong>Yuhang Zhang</strong></u>, Dongsheng Zhu, Keyan Ding, Peilin Chen, Junyang Yu, Shiqi Wang, Qi Song.  
    MEG-Site: Multimodal Equivariant Graph Learning Framework for Protein Active Sites Identification.\
-   *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2026. (Under Review)
+   *In Submission*, 2026.
 
 #### Published/Accepted
 
 1. <u><strong>Yuhang Zhang</strong></u>, Keyan Ding, Peilin Chen, Can Lin, Han Liu, Ruixi Chen, Shiqi Wang, Qi Song.  
    TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval. [[paper]](https://arxiv.org/abs/2605.24489) \
-   *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [<font color = red>*Oral Presentation* </font>]
+   *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [<font color = red>*Oral Presentation & Award Candidate*</font>]
 
 1. <u><strong>Yuhang Zhang</strong></u>, Yiming Xu, Peilin Chen, Shiqi Wang, Qi Song, Lei Yu, Wei Cai.  
    Knowledge-Enhanced Medical Image Classification via Descriptive Priors from LLMs. [[paper]](https://link.springer.com/article/10.1007/s13755-025-00380-4) \
