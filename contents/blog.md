@@ -13,4 +13,9 @@
     <img src="contents/blog/hongkong/hk.png" alt="Study in Hong Kong">
     <h3 class="blog-card-title">My Year of Study in Hong Kong (Sept 2024 - Aug 2025)</h3>
   </a>
+
+  <a class="blog-card" href="blog.html?post=sandiego">
+    <img src="contents/blog/SanDiego/ca.png" alt="San Diego, California">
+    <h3 class="blog-card-title">My Journey to ACL Conference in San Diego (July 2026)</h3>
+  </a>
 </div>
