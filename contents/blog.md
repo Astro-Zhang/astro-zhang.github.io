@@ -15,7 +15,7 @@
   </a>
 
   <a class="blog-card" href="blog.html?post=sandiego">
-    <img src="contents/blog/SanDiego/ca.png" alt="San Diego, California">
+    <img src="contents/blog/SanDiego/ca.JPG" alt="San Diego, California">
     <h3 class="blog-card-title">My Journey to ACL Conference in San Diego (July 2026)</h3>
   </a>
 </div>
