@@ -1,9 +1,17 @@
 <div style="display:flex; justify-content:space-between;">
   <div>
+    • <strong>Visiting PhD Student, Computer Science</strong><br>
+    &nbsp;&nbsp;&nbsp;City University of Hong Kong (Supervisor: <a href="https://www.cs.cityu.edu.hk/~shiqwang/" target="_blank">Prof. Yang Zhang</a>)
+  </div>
+  <div>2026.08 — Present</div>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+  <div>
     • <strong>Joint PhD Student, Computer Science</strong><br>
     &nbsp;&nbsp;&nbsp;City University of Hong Kong (Supervisor: <a href="https://www.cs.cityu.edu.hk/~shiqwang/" target="_blank">Prof. Shiqi Wang</a>)
   </div>
-  <div>2024 — Present</div>
+  <div>2024.09 — Present</div>
 </div>
 
 <div style="display:flex; justify-content:space-between;">
@@ -11,7 +19,7 @@
     • <strong>PhD Student, Computer Science and Technology</strong><br>
     &nbsp;&nbsp;&nbsp;University of Science and Technology of China (Supervisor: <a href="https://songqi1990.github.io/" target="_blank">Prof. Qi Song</a>)
   </div>
-  <div>2024 — Present</div>
+  <div>2024.09 — Present</div>
 </div>
 
 <div style="display:flex; justify-content:space-between;">
@@ -19,7 +27,7 @@
     • <strong>Master(Transferred to PhD Student in Second year), Computer Science and Technology</strong><br>
     &nbsp;&nbsp;&nbsp;University of Science and Technology of China
   </div>
-  <div>2022 — 2024</div>
+  <div>2022.09 — 2024.08</div>
 </div>
 
 <div style="display:flex; justify-content:space-between;">
@@ -34,5 +42,5 @@ and
 for teaching me so much throughout my undergraduate study.
 ] -->
   </div>
-  <div>2018 — 2022</div>
+  <div>2018.09 — 2022.06</div>
 </div>
