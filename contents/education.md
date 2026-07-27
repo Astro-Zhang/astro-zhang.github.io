@@ -1,7 +1,7 @@
 <div style="display:flex; justify-content:space-between;">
   <div>
     • <strong>Visiting PhD Student, Computer Science</strong><br>
-    &nbsp;&nbsp;&nbsp;City University of Hong Kong (Supervisor: <a href="https://www.cs.cityu.edu.hk/~shiqwang/" target="_blank">Prof. Yang Zhang</a>)
+    &nbsp;&nbsp;&nbsp;National University of Singapore (Supervisor: <a href="https://www.comp.nus.edu.sg/cs/people/zhangy/" target="_blank">Prof. Yang Zhang</a>)
   </div>
   <div>2026.08 — Present</div>
 </div>
