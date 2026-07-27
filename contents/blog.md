@@ -17,5 +17,5 @@
   <a class="blog-card" href="blog.html?post=hongkong">
     <img src="contents/blog/hongkong/hk.png" alt="Study in Hong Kong">
     <h3 class="blog-card-title">My Year of Study in Hong Kong (Sept 2024 - Aug 2025)</h3>
-  </a>w
+  </a>
 </div>
