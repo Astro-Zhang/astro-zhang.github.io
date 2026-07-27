@@ -1,5 +1,5 @@
 #### Preprint/Under Review
-1. Ruixi Chen, <u><strong>Yuhang Zhang</strong></u>, Ling Zheng, Shixiang Luo, Shanhua Bao, Qi Song. [<font color = blue >*Co-First Author*</font>]\
+1. Ruixi Chen, <u><strong>Yuhang Zhang</strong></u>, Ling Zheng, Shixiang Luo, Shanhua Bao, Lei Yu, Qi Song, Xiang-Yang Li. [<font color = blue >*Co-First Author*</font>]\
    Harnessing Large Language Models for Complex-free Protein-Ligand Affinity Prediction via Bimodal Retrieval Enhancement.\
    *Preprint*, 2026.
 
@@ -7,7 +7,7 @@
    DECO: A Scalable and Lightweight Dual-Expert Collaboration Framework for Protein Fitness Landscape Prediction.\
    *Bioinformatics*, 2026. (Under Review)
 
-1. <u><strong>Yuhang Zhang</strong></u>, Dongsheng Zhu, Keyan Ding, Peilin Chen, Junyang Yu, Shiqi Wang, Qi Song.  
+1. <u><strong>Yuhang Zhang</strong></u>, Dongsheng Zhu, Keyan Ding, Peilin Chen, Ling Zheng, Yufan Wang, Shiqi Wang, Qi Song.  
    MEG-Site: Multimodal Equivariant Graph Learning Framework for Protein Active Sites Identification.\
    *Preprint*, 2026
 
