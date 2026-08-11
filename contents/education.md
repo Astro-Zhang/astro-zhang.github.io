@@ -1,6 +1,6 @@
 <div style="display:flex; justify-content:space-between;">
   <div>
-    • <strong>Visiting PhD Student, Computer Science</strong><br>
+    • <strong>Visiting PhD Student, Computer Science & Cancer Science</strong><br>
     &nbsp;&nbsp;&nbsp;National University of Singapore (Supervisor: <a href="https://www.comp.nus.edu.sg/cs/people/zhangy/" target="_blank">Prof. Yang Zhang</a>)
   </div>
   <div>2026.08 — Present</div>

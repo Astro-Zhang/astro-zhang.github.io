@@ -12,6 +12,9 @@
    *Preprint*, 2026
 
 #### Published/Accepted
+1. Yiming Xu, Yixuan Liu, <u><strong>Yuhang Zhang</strong></u>, Ling Zheng, Yihan Wang and Qi Song.  
+    MKG-CARE: Case-Aware Reasoning with Multimodal Knowledge Graphs for Explainable Medical Image Diagnosis [[paper]](https://arxiv.org/html/2605.22547v1) \
+   *International ACM Conference on Knowledge and Information Management (CIKM)*, 2026.
 
 1. <u><strong>Yuhang Zhang</strong></u>, Keyan Ding, Peilin Chen, Can Lin, Han Liu, Ruixi Chen, Shiqi Wang, Qi Song.  
    TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval. [[paper]](https://arxiv.org/abs/2605.24489) \
