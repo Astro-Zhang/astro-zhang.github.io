@@ -10,7 +10,7 @@
 #### Published/Accepted
 1. Ruixi Chen, <u><strong>Yuhang Zhang</strong></u>, Ling Zheng, Shixiang Luo, Shanhua Bao, Lei Yu, Qi Song, Xiang-Yang Li. [<font color = blue >*Co-First Author*</font>]\
    Harnessing Large Language Models for Complex-free Protein-Ligand Affinity Prediction via Bimodal Retrieval Enhancement.\
-   Proceedings of the 33th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),2027.
+   Proceedings of the 33th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2027.
 
 1. <u><strong>Yuhang Zhang</strong></u>, Keyan Ding, Peilin Chen, Can Lin, Han Liu, Ruixi Chen, Shiqi Wang, Qi Song.  
    TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval. [[paper]](https://arxiv.org/abs/2605.24489) \
