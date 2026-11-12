@@ -1,8 +1,4 @@
 #### Preprint/Under Review
-1. Ruixi Chen, <u><strong>Yuhang Zhang</strong></u>, Ling Zheng, Shixiang Luo, Shanhua Bao, Lei Yu, Qi Song, Xiang-Yang Li. [<font color = blue >*Co-First Author*</font>]\
-   Harnessing Large Language Models for Complex-free Protein-Ligand Affinity Prediction via Bimodal Retrieval Enhancement.\
-   *Preprint*, 2026.
-
 1. <u><strong>Yuhang Zhang</strong></u>, Tianhe Zhang, Keyan Ding, Peilin Chen, Hanwei Zhu, Qi Song, Shiqi Wang.  
    DECO: A Scalable and Lightweight Dual-Expert Collaboration Framework for Protein Fitness Landscape Prediction.\
    *Bioinformatics*, 2026. (Under Review)
@@ -12,9 +8,9 @@
    *Preprint*, 2026
 
 #### Published/Accepted
-1. Yiming Xu, Yixuan Liu, <u><strong>Yuhang Zhang</strong></u>, Ling Zheng, Yihan Wang and Qi Song.  
-    MKG-CARE: Case-Aware Reasoning with Multimodal Knowledge Graphs for Explainable Medical Image Diagnosis [[paper]](https://arxiv.org/html/2605.22547v1) \
-   *International ACM Conference on Knowledge and Information Management (CIKM)*, 2026.
+1. Ruixi Chen, <u><strong>Yuhang Zhang</strong></u>, Ling Zheng, Shixiang Luo, Shanhua Bao, Lei Yu, Qi Song, Xiang-Yang Li. [<font color = blue >*Co-First Author*</font>]\
+   Harnessing Large Language Models for Complex-free Protein-Ligand Affinity Prediction via Bimodal Retrieval Enhancement.\
+   Proceedings of the 33th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD),2027.
 
 1. <u><strong>Yuhang Zhang</strong></u>, Keyan Ding, Peilin Chen, Can Lin, Han Liu, Ruixi Chen, Shiqi Wang, Qi Song.  
    TIGER: Text-Informed Generalized Enzyme–Reaction Retrieval. [[paper]](https://arxiv.org/abs/2605.24489) \
@@ -27,6 +23,15 @@
 1. <u><strong>Yuhang Zhang</strong></u>, Peilin Chen, Keyan Ding, Han Liu, Shiqi Wang, Qi Song.  
    MPSol: A Multimodal Prompt Learning Framework for Protein Solubility Prediction. [[paper]](https://ieeexplore.ieee.org/document/11284690) \
    *IEEE Journal of Biomedical and Health Informatics (JBHI)*, 2025. [<font color = red>*Invited Oral Presentation in [BHI'2025](https://bhi.embs.org/2025/)* </font>]
+
+1. Yiming Xu, <u><strong>Yuhang Zhang</strong></u>, Wangqiu Zhou, and Qi Song.  
+   Hi-MEC: Hierarchical Medical Diagnosis via Quality-Aware Knowledge Fusion and Multi-Expert Consultation. \
+   *IEEE International Conference on Bioinformatics and Biomedicine (BIBM Regular)*, 2026.
+
+1. Yiming Xu, Yixuan Liu, <u><strong>Yuhang Zhang</strong></u>, Ling Zheng, Yihan Wang and Qi Song.  
+    MKG-CARE: Case-Aware Reasoning with Multimodal Knowledge Graphs for Explainable Medical Image Diagnosis [[paper]](https://arxiv.org/html/2605.22547v1) \
+   *International ACM Conference on Knowledge and Information Management (CIKM)*, 2026.
+
 
 1. Xiang-Yang Li, Yihang Wang, Junli Liang, Xinyu Wang, Pengfei Zhou, <u><strong>Yuhang Zhang</strong></u>, Qi Song.  
    Knowledge-enhanced AI models for domain-specific application: a Survey.  [[paper]](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4635-0) \

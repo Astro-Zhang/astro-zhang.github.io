@@ -1,4 +1,9 @@
 <div class="blog-grid">
+  <a class="blog-card" href="blog.html?post=italy">
+    <img src="contents/blog/italy/roma.jpeg" alt="At the Pantheon in Rome">
+    <h3 class="blog-card-title">A Journey Through Italy: Rome and Florence</h3>
+  </a>
+
   <a class="blog-card" href="blog.html?post=sandiego">
     <img src="contents/blog/SanDiego/ca.JPG" alt="San Diego, California">
     <h3 class="blog-card-title">My Journey to ACL Conference in San Diego (July 2026)</h3>
